@@ -1,0 +1,1 @@
+Como usar o tensorflow para fazer load das imagens ao mesmo tempo sem ter que usar 2 vezes a mesma funcao
