@@ -4,4 +4,4 @@
 
 ## Description of the project
 
-In the pdf file named 'AML_project_2022'you can read the objectives, the problem statement and the overview of the competition
+In the pdf file named 'AML_project_2022' you can read the objectives, the problem statement and the overview of the competition
